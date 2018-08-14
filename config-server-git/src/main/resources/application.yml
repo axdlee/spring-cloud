@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/axdlee/config-repo-demo/
+          uri: https://github.com/axdlee/config-repo-demo
 
 server:
   port: 1201
